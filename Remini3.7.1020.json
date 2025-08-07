@@ -2,6 +2,6 @@
   "version": 1,
   "title": "New Update Available",
   "subtitle": ["Bug Fixes 🐞", "Performance Boost ⚡", "New Sleek Design 🎨", "Enhanced Features 🔧", "Improved Navigation 🔁", "Faster Load Times ⏱", "Optimized Battery Usage 🔋", "Security Enhancements 🔐", "Updated Content 📱", "UI Improvements ✨"]
-  "closeButton": false,
+  "closeButton": true,
   "link": "https://t.me/+jW_LX3Um3vxlNzVl"
 }
