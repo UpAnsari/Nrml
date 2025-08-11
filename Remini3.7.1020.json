@@ -1,7 +1,10 @@
 {
-  "version": 2025144799,
-  "title": "𝗡𝗲𝘄 𝗨𝗽𝗱𝗮𝘁𝗲 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 🛠",
-  "subtitle": "1. Bug Fixes 🐞\n2. Performance Boost ⚡\n3. New Sleek Design 🎨\n4. Enhanced Features 🔧\n5. Improved Navigation 🔁\n6. Faster Load Times ⏱\n7. Optimized Battery Usage 🔋\n8. Security Enhancements 🔐\n9. Updated Content 📱\n10. UI Improvements ✨",
-  "closeButton": false,
+  "credit": "MR. NoOB",
+  "show_dialog": true,
+  "title": "𝗨𝗽𝗱𝗮𝘁𝗲 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 🛠",
+  "subtitle": "✨New Version Available✨",
+  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
+  "btn_update": "Update Now",
+  "btn_exit": "Exit",
   "link": "https://t.me/+jW_LX3Um3vxlNzVl"
 }
