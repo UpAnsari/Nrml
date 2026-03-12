@@ -1,7 +1,7 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "title": "Update Available 🛠️",
-  "message": "New Version Available Please Update This App",
+  "message": "New Version Available Please Update This Application",
   "showCloseButton": false,
   "UpdateButtonUrl": "https://t.me/+wUtrUrjqlJBlYTI1",
   "showUpdateButton": true,
